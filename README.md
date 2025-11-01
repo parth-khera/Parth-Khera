@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Parth Khera</h1>
 <p align="center">
-  Fellow @ <b>Pineapple Labs</b> | Youth Advisory Board @ <b>USSQUASH YES</b> | Entrepreneur & Builder
+  Student @ <b>Shivalik College of Engineering</b> | Explorer @ <b>Explorin Academy</b> | Designer & Builder
 </p>
 
 ---
