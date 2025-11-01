@@ -1,4 +1,4 @@
-<h1 align="center">🌐 Parth Khera | Personal Web Portfolio</h1>
+<h1 align="center">🌐 Parth Khera </h1>
 <p align="center">
   <i>Blending creativity, code, and curiosity | AI • Web Development • Ethical Hacking</i>
 </p>
