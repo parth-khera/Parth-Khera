@@ -1,54 +1,71 @@
-<h1 align="center">Hi 👋, I'm Parth Khera</h1>
+<h1 align="center">🌐 Parth Khera | Personal Web Portfolio</h1>
 <p align="center">
-  Student @ <b>Shivalik College of Engineering</b> | Explorer @ <b>Explorin Academy</b> | Designer & Builder
+  <i>Blending creativity, code, and curiosity | AI • Web Development • Ethical Hacking</i>
 </p>
 
 ---
 
-- 🎓 **Education & Current Roles:**  
-  Currently a Fellow at Pineapple Labs (since March 2023) and a participant in the BETA Camp spring cohort—an international entrepreneurship boot camp. Also serving as an Advisory Board Member for the USSQUASH Youth Excellence in Squash (YES) initiative since January 2021.
+## 👨‍💻 About Me
 
-- 💡 **Interests & Activities:**  
-  Passionate about tech-enabled entrepreneurship, building communities, and youth development. My work at Pineapple Labs and BETA Camp reflects my commitment to innovative problem-solving and mentoring young talents.
-
-- 🌐 **Leadership & Community:**  
-  Active in youth excellence programs, leveraging my experience in advisory roles and contributing to projects that empower young people and foster skill-building.
-
-- 📚 **Learning & Collaboration:**  
-  Always eager to learn, collaborate, and make a positive impact. I enjoy connecting with like-minded professionals and sharing knowledge across tech, entrepreneurship, and personal growth.
-
-- 🚀 **Looking Forward:**  
-  Open to opportunities for collaboration, mentorship, and engaging work in tech, startups, and education.
+Hi, I'm <b>Parth Khera</b>, a 19-year-old engineering enthusiast who loves to blend creativity with code. I enjoy working on projects involving AI, web technologies, and cybersecurity, while expressing creativity through painting and cooking.<br>
+I believe technology should be powerful, personal, and purposeful — and my portfolio reflects that.
 
 ---
 
-<p>
-  📍 Dehradun &nbsp;|&nbsp; 
-  <a href="mailto:bt24cse173@shivalikcollege.edu.in">Email</a> &nbsp;|&nbsp; 
-  <a href="https://www.linkedin.com/in/parth-khera-a26627329/">LinkedIn</a> &nbsp;|&nbsp;
-  <a href="https://github.com/parth-khera">GitHub</a> &nbsp;|&nbsp;
-  <a href="https://twitter.com/Parth86482">Twitter</a>
-</p>
+## 🚀 Featured Project: Destifa
+
+> <b>Destifa</b> is an AI-powered travel assistant that redefines the way we plan trips. It allows users to explore destinations, create personalized itineraries, and chat with a built-in AI for real-time suggestions — making travel smarter and more interactive.
+
+<b>Key Features:</b>
+- Personalized travel plans using AI
+- Integrated chatbot powered by Gemini API
+- Fast backend built with Python (FastAPI/Flask)
+- Responsive front-end with smooth UI and particle effects
+
+<b>Technologies Used:</b>
+- Frontend: HTML, CSS, JavaScript
+- Backend: Python (FastAPI / Flask)
+- AI Integration: Gemini API
+- Version Control: Git, GitHub
+
+🔗 <a href="https://github.com/parth-khera/destifa">Destifa Project GitHub Repository</a>
 
 ---
 
-<!-- Badges and GitHub Stats (add or customize as desired) -->
+## 💼 Portfolio Overview
+
+<b>Highlights:</b>
+- Animated background powered by particles.js
+- Smooth navigation between About, Projects, Certificates, and Contact
+- Responsive design for all devices
+- Integrated social links (GitHub, LinkedIn, LeetCode, Unstop)
+
+<b>Tools & Libraries Used:</b>
+HTML, CSS, JavaScript, Font Awesome Icons, particles.js
+
+---
+
+## 📫 Contact Me
+
+- ✉️ Email: bt24cse173@shivalikcollege.edu.in
+- 💼 LinkedIn: https://www.linkedin.com/in/parth-khera-a26627329/
+- 🐙 GitHub: https://github.com/parth-khera
+
+---
+
+## 🏆 Acknowledgements
+
+Special thanks to all mentors, teammates, and collaborators who’ve been part of my learning journey. This portfolio reflects my curiosity, persistence, and passion for innovation.
+
+> _“Code is not just about solving problems — it’s about creating experiences.”_
+
+---
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=parth-khera&show_icons=true&theme=radical" alt="Parth's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parth-khera&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-<!-- Highlight a few key projects (add links to your top repos) -->
-## 🚩 Featured Projects
-- [Project 1](#) - Short description about what makes this project special.
-- [Project 2](#) - Another key project with a brief summary.
-
----
-
-_Always open to connect and collaborate – let’s build something impactful together!_
-
-<!--
-Sources:
-1. [Parth Khera - Fellow at Pineapple Labs | The Org](https://theorg.com/org/pineapple-labs/org-chart/parth-khera)
-2. [Create An Attractive GitHub Profile README - DEV Community](https://dev.to/parth_johri/create-an-attractive-github-profile-readme-noj)
--->
+<p align="center">
+  <a href="https://github.com/parth-khera"><img src="https://img.shields.io/github/followers/parth-khera?label=Follow&style=social" /></a>
+</p>
