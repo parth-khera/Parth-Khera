@@ -7,7 +7,7 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=00F5FF&center=true&vCenter=true&width=435&lines=AI+Engineer+%7C+Web+Innovator;Ethical+Hacker+%7C+Tech+Visionary;Building+Future-Ready+Digital+Experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=00F5FF&center=true&vCenter=true&width=435&lines=AI+Engineer+%7C+Web+Innovator;Ethical+Hacker+%7C+Tech+Visionary" alt="Typing SVG" />
 </div>
 
 ---
