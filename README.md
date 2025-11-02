@@ -1,71 +1,109 @@
-<h1 align="center">🌐 Parth Khera </h1>
+<h1 align="center">🚀 Parth Khera</h1>
 <p align="center">
-  <i>Blending creativity, code, and curiosity | AI • Web Development • Ethical Hacking</i>
+  <b>AI • Web Development • Cybersecurity</b><br>
+  <i>Turning imagination into intelligent systems that shape tomorrow.</i>
 </p>
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=00F5FF&center=true&vCenter=true&width=435&lines=AI+Engineer+%7C+Web+Innovator;Ethical+Hacker+%7C+Tech+Visionary;Building+Future-Ready+Digital+Experiences" alt="Typing SVG" />
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-Hi, I'm <b>Parth Khera</b>, a 19-year-old engineering enthusiast who loves to blend creativity with code. I enjoy working on projects involving AI, web technologies, and cybersecurity, while expressing creativity through painting and cooking.<br>
-I believe technology should be powerful, personal, and purposeful — and my portfolio reflects that.
+Hey there, I'm **Parth Khera**, a 19-year-old tech creator who blends **art, AI, and algorithms** into elegant, human-centered digital products.  
+I believe technology isn’t just about solving problems — it’s about **crafting experiences that inspire and empower**.
+
+✨ **What drives me:**  
+- Building next-gen web platforms powered by intelligence  
+- Designing digital ecosystems where privacy, power, and performance coexist  
+- Merging creativity with code — painting ideas into interactive realities  
+
+💡 I’m currently exploring:  
+- Decentralized identity verification on blockchain  
+- Emotion-aware AI systems for personalized UX  
+- Fast, scalable backend systems with FastAPI and Flask  
 
 ---
 
-## 🚀 Featured Project: Destifa
+## 🌍 Featured Project — **Destifa**
 
-> <b>Destifa</b> is an AI-powered travel assistant that redefines the way we plan trips. It allows users to explore destinations, create personalized itineraries, and chat with a built-in AI for real-time suggestions — making travel smarter and more interactive.
+> **Destifa** is your personal AI travel companion — a seamless fusion of **machine learning, design, and exploration.**
 
-<b>Key Features:</b>
-- Personalized travel plans using AI
-- Integrated chatbot powered by Gemini API
-- Fast backend built with Python (FastAPI/Flask)
-- Responsive front-end with smooth UI and particle effects
+🧠 **Key Highlights:**  
+- AI-generated personalized itineraries  
+- Real-time conversational travel assistant (Gemini API)  
+- Adaptive UI with smooth particle-based interactions  
+- Lightning-fast Python backend (FastAPI / Flask)
 
-<b>Technologies Used:</b>
-- Frontend: HTML, CSS, JavaScript
-- Backend: Python (FastAPI / Flask)
-- AI Integration: Gemini API
-- Version Control: Git, GitHub
+⚙️ **Tech Stack:**  
+`HTML` • `CSS` • `JavaScript` • `Python` • `FastAPI` • `Gemini API` • `Git`  
 
-🔗 <a href="https://github.com/parth-khera/destifa">Destifa Project GitHub Repository</a>
+🔗 **Explore Project:** [Destifa GitHub Repository](https://github.com/parth-khera/destifa)
 
 ---
 
-## 💼 Portfolio Overview
+## 💼 My Digital Universe
 
-<b>Highlights:</b>
-- Animated background powered by particles.js
-- Smooth navigation between About, Projects, Certificates, and Contact
-- Responsive design for all devices
-- Integrated social links (GitHub, LinkedIn, LeetCode, Unstop)
+🖥️ **Portfolio Highlights**  
+- Animated landing page powered by **particles.js**  
+- Section transitions with smooth parallax effects  
+- Fully responsive, fluid grid layouts  
+- Integrated social + coding platform links  
 
-<b>Tools & Libraries Used:</b>
-HTML, CSS, JavaScript, Font Awesome Icons, particles.js
-
----
-
-## 📫 Contact Me
-
-- ✉️ Email: bt24cse173@shivalikcollege.edu.in
-- 💼 LinkedIn: https://www.linkedin.com/in/parth-khera-a26627329/
-- 🐙 GitHub: https://github.com/parth-khera
+🧰 **Core Tools:**  
+`HTML` • `CSS` • `JavaScript` • `Font Awesome` • `particles.js` • `Figma`
 
 ---
 
-## 🏆 Acknowledgements
+## 🧠 Skills Snapshot
 
-Special thanks to all mentors, teammates, and collaborators who’ve been part of my learning journey. This portfolio reflects my curiosity, persistence, and passion for innovation.
-
-> _“Code is not just about solving problems — it’s about creating experiences.”_
+| Domain | Tech Stack |
+|:--|:--|
+| **AI & ML** | Python • Gemini API • LangChain • OpenAI |
+| **Web Development** | HTML • CSS • JS • React • Flask • FastAPI |
+| **Cybersecurity** | Ethical Hacking • Cryptography • Blockchain ID |
+| **Tools & Platforms** | Git • GitHub • VS Code • Firebase • Docker |
 
 ---
+
+## 📫 Let’s Connect
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=parth-khera&show_icons=true&theme=radical" alt="Parth's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parth-khera&layout=compact&theme=radical" alt="Top Languages" />
+  <a href="mailto:bt24cse173@shivalikcollege.edu.in"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/parth-khera-a26627329/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/parth-khera"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/parth-khera"><img src="https://img.shields.io/github/followers/parth-khera?label=Follow&style=social" /></a>
-</p>
+---
+
+## 🏆 Achievements & Recognition
+
+- 🌟 Selected Fellow at **Pineapple Labs** (AI & Entrepreneurship)  
+- 💡 Advisory Board Member — **USSQUASH YES Initiative**  
+- 🚀 Participant, **BETA Camp Global Entrepreneurship Bootcamp**  
+- 🧩 Finalist in multiple hackathons focused on Web3 & AI innovation  
+
+> *Every line of code I write is a reflection of curiosity, creativity, and courage.*
+
+---
+
+<div align="center">
+
+### 📊 My GitHub Universe
+
+<img src="https://github-readme-stats.vercel.app/api?username=parth-khera&show_icons=true&theme=radical" alt="Parth's GitHub stats" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=parth-khera&theme=radical" alt="GitHub Streak" height="165"/>
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parth-khera&layout=compact&theme=radical" alt="Top Languages" />
+
+---
+
+### ✨ Fun Fact
+> “The best code doesn’t just *run* — it *resonates*.”
+
+<a href="https://github.com/parth-khera"><img src="https://img.shields.io/github/followers/parth-khera?label=Follow&style=social" /></a>
+</div>
