@@ -70,6 +70,20 @@ I believe technology isn’t just about solving problems — it’s about **craf
 
 ---
 
+## 🏆 Achievements & Recognition
+
+- 🌟 **Fellow at Pineapple Labs** — exploring AI-driven entrepreneurship  
+- 🚀 **Participant, BETA Camp Global Cohort** — international entrepreneurship program  
+- 🧩 **Advisory Board Member** at USSQUASH Youth Excellence in Squash (YES)  
+- 💡 **Winner & Finalist** in multiple hackathons on Web3 and Blockchain Innovation  
+- 🧠 **Developer of Destifa**, an AI-powered smart travel planner using Gemini API  
+- 🔐 **Contributor to Medcare**, a blockchain-based healthcare identity platform  
+- 🪙 **Builder at Hack on Hills 7.0 (Aptos Web3 Bootcamp)** — decentralized tech innovation  
+
+> *Every line of code I write is a reflection of curiosity, creativity, and courage.*
+
+---
+
 ## 📫 Let’s Connect
 
 <p align="center">
@@ -80,25 +94,14 @@ I believe technology isn’t just about solving problems — it’s about **craf
 
 ---
 
-## 🏆 Achievements & Recognition
-
-- 🌟 Selected Fellow at **Pineapple Labs** (AI & Entrepreneurship)  
-- 💡 Advisory Board Member — **USSQUASH YES Initiative**  
-- 🚀 Participant, **BETA Camp Global Entrepreneurship Bootcamp**  
-- 🧩 Finalist in multiple hackathons focused on Web3 & AI innovation  
-
-> *Every line of code I write is a reflection of curiosity, creativity, and courage.*
-
----
-
 <div align="center">
 
 ### 📊 My GitHub Universe
 
-<img src="https://github-readme-stats.vercel.app/api?username=parth-khera&show_icons=true&theme=radical" alt="Parth's GitHub stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=parth-khera&theme=radical" alt="GitHub Streak" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=parth-khera&show_icons=true&theme=radical&custom_title=Innovation+in+Action&hide_rank=false&include_all_commits=true&count_private=true" alt="Parth's GitHub stats" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=parth-khera&theme=radical&ring=FF00FF&fire=FF00FF" alt="GitHub Streak" height="165"/>
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parth-khera&layout=compact&theme=radical" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parth-khera&layout=compact&theme=radical&langs_count=6&custom_title=Tech+Spectrum" alt="Top Languages" />
 
 ---
 
