@@ -72,10 +72,13 @@ I believe technology isn’t just about solving problems — it’s about **craf
 
 ## 🏆 Achievements & Recognition
 
-- 🌟 **Fellow at Pineapple Labs** — exploring AI-driven entrepreneurship  
-- 🚀 **Participant, BETA Camp Global Cohort** — international entrepreneurship program  
-- 🧩 **Advisory Board Member** at USSQUASH Youth Excellence in Squash (YES)  
-- 💡 **Winner & Finalist** in multiple hackathons on Web3 and Blockchain Innovation  
+-🥇 **Top 8% - Coder at ATF Fellowship Program Backed by Y-combinator
+- 🥇 **Finalist – DSA Coding Competition (Knowvy Perks, Aug 2025)**  
+- 🧩 **Finalist – ClueQuest DSA Challenge, GTBIT**  
+- 🏅 **26th Rank – T20DSA Challenge (Top 5% Coder, July 2025)**  
+- 🔬 **State-Level Science Congress – NIT Hamirpur (Dec 2023)**  
+- 💡 **Hackathon 2024 – Shiva Tech, Dehradun**  
+- 🚀 **Utkarsh 1.0 Hackathon – UTU Dehradun (2025)**    
 - 🧠 **Developer of Destifa**, an AI-powered smart travel planner using Gemini API  
 - 🔐 **Contributor to Medcare**, a blockchain-based healthcare identity platform  
 - 🪙 **Builder at Hack on Hills 7.0 (Aptos Web3 Bootcamp)** — decentralized tech innovation  
