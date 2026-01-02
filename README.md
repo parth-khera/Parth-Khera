@@ -120,19 +120,29 @@ I focus on:
 - 🪙 **Web3 Builder** — Aptos Hack on Hills 7.0 Bootcamp
 
 ---
-
 ## 📊 GitHub Performance
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=parth-khera&show_icons=true&theme=radical&hide_border=true" />
-  <img height="160" src="https://streak-stats.demolab.com?user=parth-khera&theme=radical&hide_border=true" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=parth-khera&show_icons=true&hide_border=true&theme=transparent" 
+    height="165"
+  />
 </p>
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parth-khera&layout=compact&theme=radical&hide_border=true" />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=parth-khera&hide_border=true&theme=transparent" 
+    height="165"
+  />
 </p>
 
----
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=parth-khera&layout=compact&hide_border=true&theme=transparent" 
+    height="165"
+  />
+</p>
+
 
 ## 🔍 Currently Focused On
 
