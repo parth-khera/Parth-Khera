@@ -62,16 +62,7 @@ Currently pursuing **B.Tech in CSE (Shivalik College, Dehradun)**, I’m passion
 
 ---
 
-### 📊 GitHub Analytics  
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=parth-khera&show_icons=true&theme=radical&custom_title=Innovation+in+Action&hide_border=true&count_private=true" />
-  <img height="165" src="https://streak-stats.demolab.com?user=parth-khera&theme=radical&hide_border=true&background=0D1117" />
-  <br/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parth-khera&layout=compact&theme=radical&hide_border=true&langs_count=8" />
-</div>
-
----
 
 ### ⚙️ Contribution Graph  
 <div align="center">
