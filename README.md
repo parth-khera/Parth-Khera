@@ -120,13 +120,27 @@ I focus on:
 - 🪙 **Web3 Builder** — Aptos Hack on Hills 7.0 Bootcamp
 
 ---
-## 📊 GitHub Snapshot
+## 📊 Developer Footprint
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/parth-khera?style=for-the-badge" />
-  <img src="https://img.shields.io/github/forks/parth-khera?style=for-the-badge" />
-  <img src="https://img.shields.io/github/last-commit/parth-khera?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Code-Python | C++ | JavaScript-00FFFF?style=for-the-badge&logo=codeforces&logoColor=white"/>
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-AI • Backend • DSA-FF00FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Status-Actively Building-00FF9C?style=for-the-badge"/>
+</p>
+
+---
+
+### ⚡ Engineering Activity Highlights
+
+```diff
++ Designing AI-powered applications with real-world use cases
++ Building scalable backend APIs (FastAPI / Flask)
++ Solving DSA & SQL problems with interview-focused intent
++ Writing clean, readable, and maintainable code
+
 
 
 ## 🔍 Currently Focused On
