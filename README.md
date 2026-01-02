@@ -1,139 +1,116 @@
-<!-- NEXT-GEN GITHUB PROFILE | RECRUITER-OPTIMIZED -->
-<!-- Parth Khera | Software Development • Competitive Programming • AI -->
+<!-- Futuristic Hybrid GitHub Profile for Parth Khera -->
+<!-- Theme: Neon Cyberpunk × Professional Polished -->
 
 <p align="center">
   <img src="https://i.ibb.co/F7kRCzJ/cyberpunk-banner.gif" width="100%" alt="Cyberpunk Banner"/>
 </p>
 
-<h1 align="center">🚀 Parth Khera</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&color=00FFFF&center=true&vCenter=true&width=700&lines=🌐+Parth+Khera;AI+Engineer+⚙️;Web+Developer+💻;Cybersecurity+Innovator+🔐;Blending+Creativity,+Code,+and+Curiosity" />
+</h1>
 
-<h3 align="center">
-Software Developer • Competitive Programmer • AI & Systems Enthusiast
-</h3>
+---
+
+### 👨‍💻 About Me  
+
+Hey there, I’m **Parth Khera**, a 19-year-old technologist who bridges **AI, web innovation, and cybersecurity** to craft experiences that blend logic with art.  
+Currently pursuing **B.Tech in CSE (Shivalik College, Dehradun)**, I’m passionate about **AI-powered systems**, **secure decentralized platforms**, and **intuitive digital design**.
+
+> 🧠 *I believe technology should be powerful, personal, and purposeful.*
+
+---
+
+### 🧩 Featured Projects  
+
+💠 **[Destifa](https://github.com/parth-khera/destifa)**  
+> An **AI-powered travel assistant** that crafts personalized itineraries using the **Gemini API**, with a sleek UI, and fast backend (FastAPI/Flask).
+
+💠 **Medcare (Blockchain Prototype)**  
+> A secure healthcare identity platform using **blockchain verification** and **unique patient UID** — simplifying trust in medical records.
+
+💠 **Plant Disease Detection**  
+> Deep learning–based tool for real-time disease recognition from crop images.
+
+---
+
+### ⚙️ Skills & Tech Stack  
+
+#### 💻 Languages & Frameworks  
+`Python` • `JavaScript` • `C++` • `HTML` • `CSS` • `FastAPI` • `Flask` • `React`
+
+#### 🧠 AI & Tools  
+`Gemini API` • `LangChain` • `OpenAI` • `TensorFlow` • `scikit-learn`
+
+#### 🔐 Cybersecurity & Blockchain  
+`Ethical Hacking` • `Cryptography` • `Blockchain ID` • `Aptos Web3`
+
+#### 🎨 Design & Tools  
+`Figma` • `Canva` • `particles.js` • `Font Awesome`
+
+---
+
+### 🏆 Achievements  
+
+- 🥇 **Top 8%** — ATF Fellowship Program (Backed by Y Combinator)  
+- 🧩 **Finalist** — DSA Coding Competition, Knowvy Perks (Aug 2025)  
+- 🧠 **Finalist** — ClueQuest DSA Challenge, GTBIT  
+- 🏅 **26th Rank** — T20DSA Challenge (Top 5% Coder, July 2025)  
+- 🔬 **State-Level Science Congress** — NIT Hamirpur (Dec 2023)  
+- 💡 **Hackathon 2024** — Shiva Tech, Dehradun  
+- 🚀 **Utkarsh 1.0 Hackathon** — UTU Dehradun (2025)  
+- 🪙 **Builder @ Hack on Hills 7.0** — Aptos Web3 Bootcamp  
+
+---
+
+### 📊 GitHub Analytics  
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=parth-khera&show_icons=true&theme=radical&custom_title=Innovation+in+Action&hide_border=true&count_private=true" />
+  <img height="165" src="https://streak-stats.demolab.com?user=parth-khera&theme=radical&hide_border=true&background=0D1117" />
+  <br/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parth-khera&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+</div>
+
+---
+
+### ⚙️ Contribution Graph  
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=parth-khera&theme=react-dark&bg_color=0D1117&hide_border=true&line=00FFFF&point=FF00FF&area=true" width="95%"/>
+</div>
+
+---
+
+### 📬 Connect with Me  
 
 <p align="center">
-I build reliable software, solve algorithmic problems, and explore intelligent systems.
-</p>
-
-<p align="center">
-  <a href="mailto:bt24cse173@shivalikcollege.edu.in">📧 Email</a> •
-  <a href="https://www.linkedin.com/in/parth-khera-a26627329/">💼 LinkedIn</a> •
-  <a href="https://github.com/parth-khera">💻 GitHub</a>
-</p>
-
----
-
-## 👋 About Me
-
-I’m a **Computer Science Engineering undergraduate** with a strong foundation in  
-**software development, data structures & algorithms, and AI-powered systems**.
-
-I enjoy working at the intersection of:
-- **Problem solving & competitive programming**
-- **Backend & full-stack web development**
-- **AI tools, cryptography, and secure system design**
-
-I believe in **consistency, clean code, and continuous learning** — and I love turning ideas into working products.
-
----
-
-## 🧠 Tech Stack (Quick Recruiter Snapshot)
-
-### 💻 Programming Languages
-`C` `C++` `Python` `JavaScript` `SQL`
-
-### 🌐 Web & Backend
-`HTML` `CSS` `FastAPI` `Flask` `React`  
-REST APIs • Authentication • Backend Architecture
-
-### 🧮 Data Structures & Algorithms
-Arrays • Strings • Linked Lists • Trees • Graphs  
-Sorting • Searching • Recursion • Hashing  
-SQL Joins • Subqueries • Query Optimization
-
-### 🤖 AI & Tools
-Gemini API • OpenAI API • LangChain  
-TensorFlow • scikit-learn
-
-### 🔐 Security & Emerging Tech
-Cryptography fundamentals • Ethical Hacking concepts  
-Blockchain Identity • Web3 (Aptos)
-
-### 🛠 Developer Tools
-Git & GitHub • Linux • Postman • VS Code  
-Figma • Canva
-
----
-
-## 💼 Featured Projects
-
-### 🔹 Destifa — AI Travel Assistant  
-**Tech:** Python, Gemini API, FastAPI, Flask  
-
-- Built an **AI-powered itinerary generator**
-- Designed a **scalable backend API**
-- Focused on **performance, modularity, and clean architecture**
-
-🔗 https://github.com/parth-khera/destifa
-
----
-
-### 🔹 MedCare — Secure Healthcare Identity (Blockchain Prototype)  
-**Tech:** Blockchain, Cryptography  
-
-- Designed a **decentralized patient identity system**
-- Emphasized **data integrity, trust, and verification**
-- Demonstrated system-level thinking
-
----
-
-### 🔹 Inventory Management System  
-**Tech:** Python, SQL  
-
-- Built a **complete CRUD-based business system**
-- Implemented **database design & validation**
-- Modeled real-world workflows
-
----
-
-### 🔹 Plant Disease Detection  
-**Tech:** Python, TensorFlow  
-
-- Implemented a **CNN-based image classification model**
-- Worked on **data preprocessing & inference**
-- Solved a real agricultural problem
-
----
-
-## 🏆 Stats & Achievements (High Hiring Signal)
-
-- 🥇 **Top 8%** — ATF Fellowship Program (Y Combinator backed)
-- 🏅 **26th Rank** — T20DSA Challenge (Top 5% Coders)
-- 🧠 **Finalist** — Multiple DSA & coding challenges
-- 📊 Strong hands-on practice in **DSA & SQL (interview-focused)**
-- 🔬 **State-Level Science Congress** — NIT Hamirpur
-- 🚀 **Hackathon Builder** — Delivered working prototypes under pressure
-- 🪙 **Web3 Builder** — Aptos Hack on Hills 7.0 Bootcamp
-
----
-
-## 📊 Developer Footprint
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Code-C | C++ | Python | JS-0A66C2?style=for-the-badge"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Software • DSA • AI-00C853?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Status-Actively Building-FF6F00?style=for-the-badge"/>
+  <a href="mailto:bt24cse173@shivalikcollege.edu.in">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/parth-khera-a26627329/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/parth-khera">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## ⚡ What I’m Actively Doing
+### 💫 Quote of the Day  
 
-```diff
-+ Solving DSA & competitive programming problems regularly
-+ Building production-ready backend systems
-+ Exploring AI tools & applied ML
-+ Learning system design, cryptography & blockchain
+> *“Code isn’t just about solving — it’s about creating experiences that resonate.”*
+
+---
+
+### 💎 Visitor Counter  
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=parth-khera&label=Profile+Views&color=00FFFF&style=for-the-badge">
+</div>
+
+---
+
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTY5NjY3NmE4NjY1YzQyNjBkZmYzNTg1NzQ0MTI1YTAzOTExOTQ5ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wvQIqJyNBOCjK/giphy.gif" width="450" />
+</p>
+
+<h3 align="center">⚔️ Let’s build the future together ⚙️</h3>
