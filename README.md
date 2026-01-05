@@ -1,11 +1,11 @@
 <!-- Hybrid AI × Cyberpunk GitHub Profile -->
 <!-- Author: Parth Khera -->
 
-<div align="center">
+<div align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&section=header&text=Parth%20Khera&fontSize=46&fontColor=ffffff&animation=twinkling&desc=AI%20•%20Web%20•%20Security%20Builder&descAlignY=60" width="100%"/>
 </div>
 
-<h2 align="center">
+<h2 align="right">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=AI+Engineer+in+the+Making;Full-Stack+Web+Developer;Cybersecurity+%26+Web3+Explorer;Building+Useful+Tech+Every+Day" />
 </h2>
 
