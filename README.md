@@ -14,10 +14,11 @@
 ## 👨‍💻 About Me
 
 Hi, I’m **Parth Khera**, a **B.Tech CSE student at Shivalik College of Engineering, Dehradun**.  
-I enjoy building **AI-powered applications**, **secure systems**, and **clean web products** that solve real problems.
+I enjoy building **AI-powered applications**, **secure systems**, and **clean web products** that solve real life problems.
 
 I focus on **learning by building**, improving consistency, and turning ideas into working systems.
 
+> *"Love to code🥰❤"*
 > *“Strong fundamentals + consistent execution beat hype.”*
 
 ---
