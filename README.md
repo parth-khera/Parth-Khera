@@ -18,7 +18,6 @@ I enjoy building **AI-powered applications**, **secure systems**, and **clean we
 
 I focus on **learning by building**, improving consistency, and turning ideas into working systems.
 
-
 > *“Strong fundamentals + consistent execution beat hype.”*
 
 ---
