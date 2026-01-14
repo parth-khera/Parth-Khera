@@ -6,78 +6,118 @@
 </div>
 
 <h2 align="right">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=AI+Engineer+in+the+Making;Full-Stack+Web+Developer;Cybersecurity+%26+Web3+Explorer;Building+Useful+Tech+Every+Day" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Aspiring+Software+Engineer;AI+%26+ML+Developer;Backend+%26+Full-Stack+Builder;Cybersecurity+%26+Web3+Explorer;Building+Impactful+Tech+Every+Day" />
 </h2>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me  
 
-Hi, I’m **Parth Khera**, a **B.Tech CSE student at Shivalik College of Engineering, Dehradun**.  
-I enjoy building **AI-powered applications**, **secure systems**, and **clean web products** that solve real life problems.
+Hi, I’m **Parth Khera**, a **B.Tech CSE student at Shivalik College of Engineering, Dehradun (CGPA: 7.54)**.  
+I build **AI-powered systems**, **secure applications**, and **scalable backend services** with a strong focus on real-world usability and performance.
 
-I focus on **learning by building**, improving consistency, and turning ideas into working systems.
+I believe in:
+- Learning by building  
+- Strong CS fundamentals  
+- Consistency over hype  
 
-> *“Strong fundamentals + consistent execution beat hype.”*
+> *“Strong fundamentals + consistent execution create unstoppable engineers.”*
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Projects  
 
 ### 🔮 Destifa — AI Travel Assistant  
 🔗 https://github.com/parth-khera/destifa  
-
-- AI-based travel planning using **Gemini API**
-- Dynamic itinerary generation + conversational interface
-- Backend with **FastAPI / Flask**
-- Focus on usability, scalability, and real-world deployment
-
-### 🏥 MedCare — Secure Health Identity (Prototype)
-- Blockchain-based patient identity concept
-- Focus on **data integrity**, **authentication**, and **secure access**
-- Designed for hackathons and system-design problems
-
-### 🌱 Plant Disease Detection
-- Image-based disease classification using **CNN models**
-- Practical ML pipeline for agriculture use cases
+**Tech:** Python, FastAPI/Flask, Gemini API, AI, NLP  
+- AI-based travel planner generating smart itineraries and real-time suggestions  
+- Conversational chatbot for travel queries, cultural tips, and emergency guidance  
+- Designed scalable backend architecture for production use  
+- Supports multilingual interaction and offline-first features  
 
 ---
 
-## 🧠 Skills & Tech Stack
+### 🌱 Plant Disease Detection System  
+**Tech:** Python, CNN, TensorFlow, Computer Vision  
+- Built a deep learning model to detect plant diseases from leaf images  
+- Implemented complete ML pipeline: preprocessing → training → evaluation  
+- Useful for early disease detection and agricultural productivity  
 
-### 💻 Programming & Web
-`Python` `C++` `JavaScript` `HTML` `CSS`  
+---
+
+### 🏥 MedCare — Secure Health Identity (Prototype)  
+**Tech:** Blockchain, Cryptography, Python  
+- Designed decentralized patient identity system  
+- Focused on data integrity, authentication, and tamper resistance  
+- Demonstrated blockchain application in healthcare security  
+
+---
+
+### 🧩 Blockchain Prototype  
+**Tech:** Python, Cryptography  
+- Implemented hashing, proof-of-work, and ledger validation  
+- Simulated smart contracts and secure transactions  
+
+---
+
+### 🌐 Online Web Portfolio  
+**Tech:** HTML, CSS  
+- Responsive portfolio showcasing projects and coding profiles  
+- Central hub for GitHub, LeetCode, and professional presence  
+
+---
+
+## 🧠 Skills & Tech Stack  
+
+### 💻 Programming & Web  
+`Python` `C++` `C` `JavaScript`  
+`HTML` `CSS`  
 `FastAPI` `Flask` `React (basic)`  
 
-### 🤖 AI / ML
+### 🤖 AI / ML  
 `Machine Learning` `Deep Learning (Basics)`  
 `TensorFlow` `scikit-learn`  
 `Gemini API` `LangChain (Intro)`  
+`NLP` `Data Analysis`  
 
-### 🔐 Security & Blockchain
+### 🔐 Security & Blockchain  
 `Cybersecurity Fundamentals`  
 `Cryptography Basics`  
-`Blockchain Concepts` `Aptos Web3 (Bootcamp)`
+`Blockchain Concepts`  
+`Aptos Web3 Bootcamp`  
 
-### 🛠 Tools
+### 🛠 Tools  
 `Git & GitHub` `Linux`  
 `Figma` `Canva`  
+`MongoDB` `MySQL` `PostgreSQL`  
 
 ---
 
-## 🏆 Achievements & Highlights
+## 🏆 Achievements & Highlights  
 
-- 🥇 **Top 8%** — ATF Fellowship Program (Y Combinator–backed)
-- 🧩 **Finalist** — DSA Coding Competition (Knowvy Perks)
-- 🧠 **Finalist** — ClueQuest DSA Challenge (GTBIT)
-- 🏅 **26th Rank** — T20DSA Challenge (Top 5%)
-- 🔬 **State-Level Science Congress** — NIT Hamirpur (2023)
-- 🪙 **Builder** — Hack on Hills 7.0 (Aptos Web3 Bootcamp)
-- 🚀 **Winner / Participant** — Multiple Hackathons (Dehradun)
+- 🥇 **Top 8%** — ATF Fellowship Program (Y Combinator–backed)  
+- 🏅 **26th Rank** — T20 DSA Challenge (Top 5% Global Coders)  
+- 🧠 **Finalist** — DSA Coding Competition (Knowvy Perks)  
+- 🧩 **Finalist** — ClueQuest DSA Challenge (GTBIT)  
+- 🔬 **State-Level Science Congress** — NIT Hamirpur  
+- 🪙 **Builder** — Hack on Hills 7.0 (Aptos Web3 Bootcamp)  
+- 🚀 **Participant & Finalist** — Multiple Hackathons (Dehradun & Online)  
 
 ---
 
-## 📊 GitHub Activity
+## 🎓 Certifications & Training  
+
+- 🧠 Artificial Intelligence – CBSE  
+- 📊 Data Analytics – Explorin Academy  
+- 🗄 Intro to SQL – Scrimba  
+- 🌐 HTML & CSS – Scrimba  
+- 🛢 NoSQL MongoDB Bootcamp – DevTown × Microsoft  
+- 🔐 Firewall Defence & Web Authentication – DevTown × Google  
+- 🌍 World Through AI – DevTown × Microsoft  
+
+---
+
+## 📊 GitHub Activity  
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=parth-khera&theme=react-dark&bg_color=0D1117&hide_border=true&line=00FFFF&point=FF00FF&area=true" width="95%"/>
@@ -90,10 +130,10 @@ I focus on **learning by building**, improving consistency, and turning ideas in
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect With Me  
 
 <p align="center">
-  <a href="mailto:bt24cse173@shivalikcollege.edu.in">
+  <a href="mailto:kheraparth15@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/parth-khera-a26627329/">
@@ -107,5 +147,5 @@ I focus on **learning by building**, improving consistency, and turning ideas in
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=footer&text=Building.+Learning.+Improving.&fontSize=26&fontColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=footer&text=Build.+Secure.+Scale.+Repeat.&fontSize=26&fontColor=ffffff" width="100%"/>
 </div>
