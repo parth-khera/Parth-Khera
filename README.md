@@ -1,136 +1,88 @@
-<!-- Hybrid AI × Cyberpunk GitHub Profile -->
-<!-- Author: Parth Khera -->
+<!-- Parth Khera - GitHub Profile README -->
 
-<div align="left">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&section=header&text=Parth%20Khera&fontSize=46&fontColor=ffffff&animation=twinkling&desc=AI%20•%20Web%20•%20Security%20Builder&descAlignY=60" width="100%"/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Parth%20Khera&fontSize=44&fontColor=ffffff&animation=twinkling&desc=AI%20•%20Backend%20•%20Security&descAlignY=60" width="100%"/>
 </div>
 
-<h2 align="right">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Aspiring+Software+Engineer;AI+%26+ML+Developer;Backend+%26+Full-Stack+Builder;Cybersecurity+%26+Web3+Explorer;Building+Impactful+Tech+Every+Day" />
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=AI+%26+ML+Developer;Backend+Engineer;Cybersecurity+Enthusiast;Building+Scalable+Systems" />
 </h2>
 
 ---
 
 ## 👨‍💻 About Me  
 
-Hi, I’m **Parth Khera**, a **B.Tech CSE student at Shivalik College of Engineering, Dehradun (CGPA: 7.54)**.  
-I build **AI-powered systems**, **secure applications**, and **scalable backend services** with a strong focus on real-world usability and performance.
+B.Tech CSE @ Shivalik College of Engineering  
+Focused on **AI systems, secure backend architecture, and real-world scalable products.**
 
-I believe in:
-- Learning by building  
-- Strong CS fundamentals  
-- Consistency over hype  
+I build:
+- AI-powered applications  
+- Secure & efficient backend services  
+- Blockchain & cryptographic prototypes  
 
-> *“Strong fundamentals + consistent execution create unstoppable engineers.”*
+> Strong fundamentals. Clean architecture. Consistent execution.
 
 ---
 
 ## 🚀 Featured Projects  
 
 ### 🔮 Destifa — AI Travel Assistant  
-🔗 https://github.com/parth-khera/destifa  
-**Tech:** Python, FastAPI/Flask, Gemini API, AI, NLP  
-- AI-based travel planner generating smart itineraries and real-time suggestions  
-- Conversational chatbot for travel queries, cultural tips, and emergency guidance  
-- Designed scalable backend architecture for production use  
-- Supports multilingual interaction and offline-first features  
+AI-powered travel planner with chatbot & itinerary generation  
+**Tech:** Python, FastAPI, Gemini API, NLP  
 
----
+### 🌱 Plant Disease Detection  
+Deep learning model for plant disease classification  
+**Tech:** CNN, TensorFlow, Computer Vision  
 
-### 🌱 Plant Disease Detection System  
-**Tech:** Python, CNN, TensorFlow, Computer Vision  
-- Built a deep learning model to detect plant diseases from leaf images  
-- Implemented complete ML pipeline: preprocessing → training → evaluation  
-- Useful for early disease detection and agricultural productivity  
-
----
-
-### 🏥 MedCare — Secure Health Identity (Prototype)  
-**Tech:** Blockchain, Cryptography, Python  
-- Designed decentralized patient identity system  
-- Focused on data integrity, authentication, and tamper resistance  
-- Demonstrated blockchain application in healthcare security  
-
----
+### 🏥 MedCare (Prototype)  
+Blockchain-based secure health identity system  
+**Tech:** Python, Cryptography, Blockchain  
 
 ### 🧩 Blockchain Prototype  
-**Tech:** Python, Cryptography  
-- Implemented hashing, proof-of-work, and ledger validation  
-- Simulated smart contracts and secure transactions  
+Proof-of-work, hashing & secure ledger simulation  
 
 ---
 
-### 🌐 Online Web Portfolio  
-**Tech:** HTML, CSS  
-- Responsive portfolio showcasing projects and coding profiles  
-- Central hub for GitHub, LeetCode, and professional presence  
+## 🧠 Tech Stack  
 
----
-
-## 🧠 Skills & Tech Stack  
-
-### 💻 Programming & Web  
+**Languages:**  
 `Python` `C++` `C` `JavaScript`  
-`HTML` `CSS`  
-`FastAPI` `Flask` `React (basic)`  
 
-### 🤖 AI / ML  
-`Machine Learning` `Deep Learning (Basics)`  
-`TensorFlow` `scikit-learn`  
-`Gemini API` `LangChain (Intro)`  
-`NLP` `Data Analysis`  
+**Backend & Web:**  
+`FastAPI` `Flask` `HTML` `CSS` `React (Basic)`  
 
-### 🔐 Security & Blockchain  
-`Cybersecurity Fundamentals`  
-`Cryptography Basics`  
-`Blockchain Concepts`  
-`Aptos Web3 Bootcamp`  
+**AI/ML:**  
+`TensorFlow` `scikit-learn` `NLP` `Data Analysis`  
 
-### 🛠 Tools  
-`Git & GitHub` `Linux`  
-`Figma` `Canva`  
+**Security & Web3:**  
+`Cryptography` `Blockchain` `Cybersecurity Fundamentals`  
+
+**Databases & Tools:**  
 `MongoDB` `MySQL` `PostgreSQL`  
+`Git` `Linux`
 
 ---
 
-## 🏆 Achievements & Highlights  
+## 🏆 Highlights  
 
-- 🥇 **Top 8%** — ATF Fellowship Program (Y Combinator–backed)  
-- 🏅 **26th Rank** — T20 DSA Challenge (Top 5% Global Coders)  
-- 🧠 **Finalist** — DSA Coding Competition (Knowvy Perks)  
-- 🧩 **Finalist** — ClueQuest DSA Challenge (GTBIT)  
-- 🔬 **State-Level Science Congress** — NIT Hamirpur  
-- 🪙 **Builder** — Hack on Hills 7.0 (Aptos Web3 Bootcamp)  
-- 🚀 **Participant & Finalist** — Multiple Hackathons (Dehradun & Online)  
+- Top 8% — ATF Fellowship  
+- 26th Rank — T20 DSA Challenge  
+- Hackathon Finalist — Multiple Events  
+- Aptos Web3 Bootcamp Builder  
 
 ---
 
-## 🎓 Certifications & Training  
-
-- 🧠 Artificial Intelligence – CBSE  
-- 📊 Data Analytics – Explorin Academy  
-- 🗄 Intro to SQL – Scrimba  
-- 🌐 HTML & CSS – Scrimba  
-- 🛢 NoSQL MongoDB Bootcamp – DevTown × Microsoft  
-- 🔐 Firewall Defence & Web Authentication – DevTown × Google  
-- 🌍 World Through AI – DevTown × Microsoft  
-
----
-
-## 📊 GitHub Activity  
+## 📊 GitHub Stats  
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=parth-khera&theme=react-dark&bg_color=0D1117&hide_border=true&line=00FFFF&point=FF00FF&area=true" width="95%"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=parth-khera&show_icons=true&theme=react&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parth-khera&layout=compact&theme=react&hide_border=true" width="48%" />
+  <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=parth-khera&theme=dark" />
+  <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=parth-khera&theme=dark" />
+  <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=parth-khera&theme=dark"/>
 </div>
 
 ---
 
-## 🌐 Connect With Me  
+## 🌐 Connect  
 
 <p align="center">
   <a href="mailto:kheraparth15@gmail.com">
@@ -147,5 +99,5 @@ I believe in:
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=footer&text=Build.+Secure.+Scale.+Repeat.&fontSize=26&fontColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Build.%20Secure.%20Scale.%20Repeat.&fontSize=22&fontColor=ffffff" width="100%"/>
 </div>
