@@ -376,32 +376,16 @@
 
 ---
 
-<!-- ===================== TROPHIES ===================== -->
-
-## 🎖️ GitHub Trophies
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=parth-khera&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<br>
-
----
-
 <!-- ===================== SNAKE ANIMATION ===================== -->
 
 ## 🐍 Contribution Snake
 
-<!-- PLACEMENT: Set up GitHub Actions to generate snake.svg automatically.
-     Workflow: https://github.com/Platane/snk
-     Once set up, the snake.svg will be at:
-     https://raw.githubusercontent.com/parth-khera/parth-khera/output/github-contribution-grid-snake-dark.svg -->
+<!-- PLACEMENT: This SVG (github-user-contribution.svg) was generated via https://github.com/Platane/snk
+     Commit it to the root of your parth-khera/parth-khera profile repo and the path below will work. -->
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/parth-khera/parth-khera/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+<img src="https://raw.githubusercontent.com/parth-khera/parth-khera/main/github-user-contribution.svg" alt="Snake animation"/>
 
 </div>
 
@@ -466,33 +450,17 @@ The Graph
 
 ---
 
-<!-- ===================== WAKATIME ===================== -->
-
-## ⏱️ WakaTime Stats
-
-<!-- PLACEMENT: Connect your WakaTime account at https://wakatime.com
-     Then replace YOUR_WAKATIME_USERNAME below with your actual username -->
-
-<div align="center">
-
-[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&layout=compact)](https://wakatime.com/@YOUR_WAKATIME_USERNAME)
-
-</div>
-
-<br>
-
----
-
 <!-- ===================== SPOTIFY ===================== -->
 
 ## 🎵 Now Playing
 
-<!-- PLACEMENT: Connect Spotify at https://spotify-github-profile.vercel.app
-     Replace YOUR_SPOTIFY_UID with your Spotify user ID after connecting -->
+<!-- PLACEMENT: Spotify integration is currently paused by the creator of spotify-github-profile.
+     Re-enable this section once the service is back up by connecting at:
+     https://spotify-github-profile.vercel.app and replacing YOUR_SPOTIFY_UID below -->
 
 <div align="center">
 
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=false&bar_color=A78BFA&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_UID&redirect=true)
+![Spotify](https://img.shields.io/badge/Spotify-Coming_Soon-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=1a1a2e)
 
 </div>
 
@@ -529,22 +497,6 @@ parth = {
     "open_to"             : ["Internships", "Collaborations", "Open Source", "Hackathons"],
 }
 ```
-
-<br>
-
----
-
-<!-- ===================== BLOG PLACEHOLDER ===================== -->
-
-## 📝 Latest Blog Posts
-
-<!-- PLACEMENT: Replace the # links below with your actual blog post URLs
-     You can use dev.to, Hashnode, Medium, or your own portfolio blog -->
-
-- 📌 [Building AI Agents with LangChain — A Practical Guide](#)
-- 📌 [Blockchain in Healthcare: How MedCare Works](#)
-- 📌 [Computer Vision for Cricket Analytics](#)
-- 📌 [Getting Started with RAG Pipelines](#)
 
 <br>
 
