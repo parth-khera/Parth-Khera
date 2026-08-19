@@ -51,16 +51,16 @@
 │                      parth-khera.yaml                       │
 ├─────────────────────────────────────────────────────────────┤
 │  Name        : Parth Khera                                  │
-│  Education   : B.Tech CSE '28 — Shivalik College of Engg.  │
+│  Education   : B.Tech CSE '28 — Shivalik College of Engg.   │
 │  Role        : AI Engineer | Full Stack | Backend | Sec     │
 │                                                             │
 │  Focus Areas :                                              │
 │    ◆ Generative AI & LLM Applications                      │
-│    ◆ AI Agents & Agentic Workflows                          │
-│    ◆ Computer Vision & Medical AI                           │
-│    ◆ Full Stack Web Development                             │
-│    ◆ Blockchain & Web3 Engineering                          │
-│    ◆ Cybersecurity & Ethical Hacking                        │
+│    ◆ AI Agents & Agentic Workflows                         │
+│    ◆ Computer Vision & Medical AI                          │
+│    ◆ Full Stack Web Development                            │
+│    ◆ Blockchain & Web3 Engineering                         │
+│    ◆ Cybersecurity & Ethical Hacking                       │
 │                                                             │
 │  Currently   : Building AI Agents & Intelligent Products    │
 │  Learning    : LangChain · MCP · AWS · Kubernetes · K8s     │
@@ -103,7 +103,6 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![ShadCN UI](https://img.shields.io/badge/ShadCN_UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 
 </details>
 
@@ -126,7 +125,6 @@
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 </details>
 
@@ -155,25 +153,8 @@
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)a
 
-</details>
-
-<!-- BLOCKCHAIN -->
-<details>
-<summary><b>⛓️ Blockchain & Web3</b></summary>
-<br>
-
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logoColor=black)
-![Chainlink](https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white)
-![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white)
-![The Graph](https://img.shields.io/badge/The_Graph-6747ED?style=for-the-badge&logoColor=white)
-![MetaMask](https://img.shields.io/badge/MetaMask-E2761B?style=for-the-badge&logo=metamask&logoColor=white)
 
 </details>
 
@@ -199,7 +180,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 </details>
@@ -341,25 +321,6 @@
 
 ---
 
-<!-- ===================== GITHUB STATS ===================== -->
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=parth-khera&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9&rank_icon=github"/>
-&nbsp;&nbsp;
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=parth-khera&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA"/>
-
-<br><br>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parth-khera&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8"/>
-
-</div>
-
-<br>
-
----
 
 <!-- ===================== ACTIVITY GRAPH ===================== -->
 
@@ -371,100 +332,6 @@
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=parth-khera&theme=tokyo-night&bg_color=0D1117&color=A78BFA&line=7C3AED&point=A78BFA&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
-
-<br>
-
----
-
-<!-- ===================== SNAKE ANIMATION ===================== -->
-
-## 🐍 Contribution Snake
-
-<!-- PLACEMENT: This SVG (github-user-contribution.svg) was generated via https://github.com/Platane/snk
-     Commit it to the root of your parth-khera/parth-khera profile repo and the path below will work. -->
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/parth-khera/parth-khera/main/github-user-contribution.svg" alt="Snake animation"/>
-
-</div>
-
-<br>
-
----
-
-<!-- ===================== CURRENTLY EXPLORING ===================== -->
-
-## 🌱 Currently Exploring
-
-<table>
-<tr>
-<td align="center" width="25%">
-
-**🤖 AI & Agents**
-
-LangChain<br>
-Model Context Protocol<br>
-Agentic Workflows<br>
-Vector Databases<br>
-RAG Pipelines
-
-</td>
-<td align="center" width="25%">
-
-**☁️ Cloud & Infra**
-
-AWS Services<br>
-Kubernetes<br>
-System Design<br>
-Terraform<br>
-Microservices
-
-</td>
-<td align="center" width="25%">
-
-**🔐 Cybersecurity**
-
-Penetration Testing<br>
-OWASP Top 10<br>
-Network Security<br>
-CTF Challenges<br>
-Cryptography
-
-</td>
-<td align="center" width="25%">
-
-**⛓️ Web3**
-
-DeFi Protocols<br>
-Smart Contracts<br>
-Chainlink Oracles<br>
-IPFS Storage<br>
-The Graph
-
-</td>
-</tr>
-</table>
-
-<br>
-
----
-
-<!-- ===================== SPOTIFY ===================== -->
-
-## 🎵 Now Playing
-
-<!-- PLACEMENT: Spotify integration is currently paused by the creator of spotify-github-profile.
-     Re-enable this section once the service is back up by connecting at:
-     https://spotify-github-profile.vercel.app and replacing YOUR_SPOTIFY_UID below -->
-
-<div align="center">
-
-![Spotify](https://img.shields.io/badge/Spotify-Coming_Soon-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=1a1a2e)
-
-</div>
-
-<br>
 
 ---
 
@@ -480,60 +347,7 @@ The Graph
 
 <br>
 
----
-
-<!-- ===================== FUN FACTS ===================== -->
-
-## ⚡ Fun Facts
-
-```python
-parth = {
-    "currently_building"  : ["AI Agents", "Blockchain dApps", "Full Stack Products"],
-    "coffee_to_code_ratio": "1:∞",
-    "favourite_quote"     : "Build fast. Break things. Learn faster.",
-    "debug_strategy"      : "console.log() everything until it works",
-    "superpower"          : "Turning caffeine into working software",
-    "fun_fact"            : "I've written more README files than bugs... probably",
-    "open_to"             : ["Internships", "Collaborations", "Open Source", "Hackathons"],
-}
-```
-
-<br>
-
----
-
-<!-- ===================== CERTIFICATIONS PLACEHOLDER ===================== -->
-
-## 🎓 Certifications
-
-<!-- PLACEMENT: Add your certifications here as you earn them
-     Format: Badge image or shield + link to credential -->
-
-| Certification | Issuer | Status |
-|---|---|---|
-| AWS Cloud Practitioner | Amazon Web Services | 🔜 In Progress |
-| Google AI Essentials | Google | 🔜 In Progress |
-| Add your certifications here | — | — |
-
-<br>
-
----
-
-<!-- ===================== SUPPORT ===================== -->
-
-## ☕ Support
-
-<div align="center">
-
-If you find my work useful, consider giving a ⭐ to my repositories!
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/parth-khera)
-
-</div>
-
-<br>
-
----
+--
 
 <!-- ===================== CONNECT ===================== -->
 
@@ -554,9 +368,6 @@ If you find my work useful, consider giving a ⭐ to my repositories!
 </a>
 
 <br><br>
-
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
-
 </div>
 
 ---
